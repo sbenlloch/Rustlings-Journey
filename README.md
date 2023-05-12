@@ -9,6 +9,9 @@ Welcome to the Rustlings-Journey! This repository is a collection of small proje
 2. **Checksum CRC16 Maker:** An implementation of a checksum CRC16 maker in Rust, calculating cyclic redundancy check (CRC) checksums using the CRC-16 algorithm.
 
 3. **IEEE 754:** Little program to understand IEEE 754 standard.
+
+4. **Grayscaling Image Converter:** converts an image file to grayscale
+
 ____
 
 Feel free to modify the code, experiment with different values, and enjoy learning Rust!

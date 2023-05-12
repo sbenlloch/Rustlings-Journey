@@ -1,2 +1,13 @@
 # Rustlings-Journey
-This repository, «Rustlings Journey,» is dedicated to my journey of learning Rust through small projects, exercises, and tests.
+
+Welcome to the Rustlings-Journey! This repository is a collection of small projects that I have used to practice Rust. It provides a hands-on experience for beginners like me to experiment with Rust and explore its key features.
+
+## Projects
+
+1. **Pseudorandom Number Generator:** A simple implementation of a pseudorandom number generator in Rust.
+
+2. **Checksum CRC16 Maker:** An implementation of a checksum CRC16 maker in Rust, calculating cyclic redundancy check (CRC) checksums using the CRC-16 algorithm.
+
+____
+
+Feel free to modify the code, experiment with different values, and enjoy learning Rust!

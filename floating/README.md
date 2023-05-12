@@ -12,9 +12,9 @@ A floating-point number in IEEE 754 format consists of:
 
 ```text
 +-----+----------------+----------------------------------+
-| Sign |    Exponent    |          Fraction/Mantissa       |
+| Sign |    Exponent   |          Fraction/Mantissa       |
 +-----+----------------+----------------------------------+
-|  1   |     8 bits     |             23 bits              |
+|  1   |     8 bits    |             23 bits              |
 +-----+----------------+----------------------------------+
 ```
 
